@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 😎 Name: Fauzan Muhammad Hartanto
+- 😄 Pronouns: Bento
+- ⚡ Fun fact: Nothing
+- 👉 Javascript Enthusiast
 
+  
+![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=Fauzanhartanto&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzanhartanto&layout=donut&theme=tokyonight&show_icons=true)
 <!--
 **Fauzanhartanto/Fauzanhartanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
